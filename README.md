@@ -1,7 +1,5 @@
 🧠 C++ Decision-Making Statements
-
 📌 Aim
-
 To study and implement decision-making constructs in C++ through simple, real-world programs such as:
 
 Finding the largest among three numbers
@@ -16,7 +14,6 @@ Displaying the name of the weekday using a switch-case
 Decision-making in C++ involves using conditional statements to control the flow of execution based on logical conditions. These statements allow programs to behave dynamically depending on inputs or computed values.
 
 Key decision-making constructs in C++ include:
-
 🔹 if
 🔹 if...else
 🔹 else if
@@ -39,5 +36,6 @@ Displays the name of the weekday corresponding to a number (1–7) using the swi
 
 ✅ Conclusion
 Through these programs, I gained hands-on experience in using decision-making statements in C++. This experiment helped me understand how to control program flow, respond to user inputs, and implement logical branching effectively.
+
 
 
