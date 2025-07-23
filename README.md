@@ -5,16 +5,16 @@
 To study and implement decision-making constructs in C++ through simple, real-world programs such as:
 
 
-Finding the largest among three numbers
+==> Finding the largest among three numbers
 
 
-Checking if a number is even or odd
+==> Checking if a number is even or odd
 
 
-Identifying vowels or consonants
+==> Identifying vowels or consonants
 
 
-Displaying the name of the weekday using a switch-case
+==> Displaying the name of the weekday using a switch-case
 
 
 📚 Theory
