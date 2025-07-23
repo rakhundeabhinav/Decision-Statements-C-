@@ -1,44 +1,43 @@
-C++ Decision Making Statements
+🧠 C++ Decision-Making Statements
 
 📌 Aim
 
-To study and implement decision making statements in C++ through basic programs such as:
+To study and implement decision-making constructs in C++ through simple, real-world programs such as:
 
+Finding the largest among three numbers
 
-Finding the largest of three numbers
-
-Checking whether a number is even or odd
+Checking if a number is even or odd
 
 Identifying vowels or consonants
 
-Displaying weekday name using switch case
+Displaying the name of the weekday using a switch-case
 
 📚 Theory
-Decision making in C++ is performed using conditional statements, which help control the flow of the program based on logical conditions.
+Decision-making in C++ involves using conditional statements to control the flow of execution based on logical conditions. These statements allow programs to behave dynamically depending on inputs or computed values.
 
-Common decision making statements in C++:
-if
+Key decision-making constructs in C++ include:
 
-if...else
+🔹 if
+🔹 if...else
+🔹 else if
+🔹 switch
 
-else if
+These tools are foundational in developing responsive and interactive programs.
 
-switch
+🧑‍💻 Programs Implemented
+🔸 Largest of Three Numbers
+Compares three inputs and determines the largest using if...else.
 
-These are essential for building programs that react dynamically based on user input or internal logic.
+🔸 Even or Odd
+Checks whether a given number is even or odd using the modulo operator and conditional logic.
 
-🧑‍💻 Programs
-1. Largest of Three Numbers
-Description: Takes three inputs and finds the largest using if...else statements.
+🔸 Vowel or Consonant
+Determines if the input character is a vowel or consonant using if...else.
 
-2. Even or Odd
-Description: Checks if a number is even or odd using % operator and if...else.
-
-3. Vowel or Consonant
-Description: Checks whether an entered character is a vowel or consonant using if...else.
-
-4. Weekday Name using Switch Case
-Description: Takes a number (1–7) and displays the corresponding weekday using switch.
+🔸 Weekday Name (Switch Case)
+Displays the name of the weekday corresponding to a number (1–7) using the switch statement.
 
 ✅ Conclusion
-By implementing these programs, I learned how to use decision making statements in C++ and gained valuable practical knowledge in controlling program flow.
+Through these programs, I gained hands-on experience in using decision-making statements in C++. This experiment helped me understand how to control program flow, respond to user inputs, and implement logical branching effectively.
+
+
